@@ -5,9 +5,9 @@
 </head>
 <body lang="en-GB" dir="ltr">
 <p style="margin-bottom: 0cm; line-height: 100%"><font face="Noto Mono">This
-project provides a Battery Protection System (<b>BPS</b>) for 4S
-LifePo4 banks.  It was developed for a 3p4s bank of prismatic cells
-totalling 540Ah.</font></p>
+project provides a Battery Protection System (<b>BPS</b>) for 8S
+LifePo4 banks.  It was developed for a 8s bank of prismatic cells
+totalling 280Ah.</font></p>
 <p style="margin-bottom: 0cm; line-height: 100%"><br/>
 
 </p>
